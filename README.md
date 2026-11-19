@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adhi%20Keshavan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhi-keshavan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adhi%20Keshavan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhi-keshavan-b-527b532a3/)
 [![GitHub](https://img.shields.io/badge/AdhiKeshavan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhi-Keshavan)
 
 </div>
