@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adhi%20Keshavan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhi-keshavan)
-[![GitHub](https://img.shields.io/badge/Adhi-Keshavan](url)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhi-Keshavan)
+[![GitHub](https://img.shields.io/badge/[Adhi-Keshavan](url)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhi-Keshavan)
 
 </div>
 
